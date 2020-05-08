@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>مدرسه غیرانتفاهی شفق</title>
+    <link href="Styles/Style.css" rel="stylesheet" type="text/css" />
+    <link rel="shortcut icon" href="Images/students.ico" />
+    <script src="Scripts/jquery-1.10.2.min.js" type="text/javascript"></script>
+    <script type="text/javascript" language="javascript">
+        $(document).ready(function () {
+            $('.Nav li').hover(
+            function () {
+                $('ul', this).stop().slideDown(100);
+            },
+                function () {
+                    $('ul', this).stop().slideUp(100);
+                });
+        });
+    </script>
+</head>
+<body>
+    <div class="Main">
+        <div class="Banner">
+            <img src="Images/01.png" width="449" height="140" alt="" />
+            <input type="text" id="txtSearch" value="جستجو . . . " />
+        </div>
+        <div class="Menu">
+            <ul class="Nav">
+                <li><a href="#">صفحه اصلی</a></li>
+                <li><a href="#">اخبار و اطلاعیه ها</a>
+                    <ul>
+                        <li><a href="#">رویدادها</a></li>
+                    </ul>
+                    <div class="clear">
+                    </div>
+                </li>
+                <li><a href="#">محتوای آموزشی</a>
+                    <ul>
+                        <li><a href="#">کافه کتاب</a></li>
+                        <li><a href="#">جزوات و تکالیف</a></li>
+                        <li><a href="#">مطالب کمک آموزشی</a></li>
+                        <li><a href="#">مقالات و مطالب علمی</a></li>
+                    </ul>
+                    <div class="clear">
+                    </div>
+                </li>
+                <li><a href="#">درباره مدرسه</a>
+                    <ul>
+                        <li><a href="#">معرفی مدرسه</a></li>
+                        <li><a href="#">افتخارات مدرسه</a></li>
+                        <li><a href="#">گالری تصاویر</a></li>
+                        <li><a href="#">بانیان و موسسین</a></li>
+                        <!-- <li><a href="#">معرفی پرسنل</a></li>
+                        <li><a href="#">معرفی مدرسین</a></li>
+                        <li><a href="#">پایه های تحصیلی</a></li>-->
+                        <li><a href="#">شهرستان لنگرود</a></li>
+                    </ul>
+                    <div class="clear">
+                    </div>
+                </li>
+                <li><a href="#">تماس با مدرسه</a></li>
+            </ul>
+        </div>
+        <div class="Content">
+        </div>
+        <table>
+            <tr>
+                <td>
+                    <div class="ad">
+                        <div class="ad_Title">
+                            <h4>
+                                اطلاعیه</h4>
+                        </div>
+                        <div class="ad_Content">
+                        </div>
+                    </div>
+                </td>
+                <td>
+                    <div class="ad">
+                        <div class="ad_Title">
+                            <h4>
+                                اخبار</h4>
+                        </div>
+                        <div class="ad_Content">
+                        </div>
+                    </div>
+                </td>
+                <td>
+                    <div class="ad">
+                        <div class="ad_Title">
+                            <h4>
+                                پیوند های ویژه</h4>
+                        </div>
+                        <div class="ad_Content">
+                        </div>
+                    </div>
+                </td>
+            </tr>
+        </table>
+    </div>
+    <div class="Footer">
+        <p>
+            &copy; تمامی حقوق این سایت متعلق به مدرسه غیرانتفاهی <a href="#">شفق</a> می باشد
+        </p>
+    </div>
+</body>
+</html>

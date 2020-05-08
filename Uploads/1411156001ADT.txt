@@ -1,0 +1,8 @@
+http://dl.downloads.ir/21463518/android-ndk-r10-cxx-stl-libs-with-debug-info.zip
+http://dl.downloads.ir/21463517/android-ndk64-r10-windows-x86_64.zip
+http://dl.downloads.ir/21463516/android-ndk64-r10-windows-x86.zip
+http://dl.downloads.ir/21463515/android-ndk32-r10-windows-x86_64.zip
+http://dl.downloads.ir/21463514/android-ndk32-r10-windows-x86.zip
+http://dl.downloads.ir/21463513/android-studio-bundle-135.1245622-windows.exe
+http://dl.downloads.ir/21463511/adt-bundle-windows-x86-20140702.zip
+http://dl.downloads.ir/21463507/adt-bundle-windows-x86_64-20140702.zip

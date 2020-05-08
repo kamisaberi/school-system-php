@@ -1,0 +1,7 @@
+create database and name it what ever you want
+Run School.sql
+Copy php Files in Host
+create User for MySQL and name it what ever you want
+in config file you find file named Connection.ini
+replace  database , user , pass and host with your information
+ENJOY!!!!

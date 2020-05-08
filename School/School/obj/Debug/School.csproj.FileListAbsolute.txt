@@ -1,0 +1,5 @@
+C:\Users\Novin\documents\visual studio 2010\Projects\School\School\bin\School.dll
+C:\Users\Novin\documents\visual studio 2010\Projects\School\School\bin\School.pdb
+C:\Users\Novin\documents\visual studio 2010\Projects\School\School\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Novin\documents\visual studio 2010\Projects\School\School\obj\Debug\School.dll
+C:\Users\Novin\documents\visual studio 2010\Projects\School\School\obj\Debug\School.pdb
